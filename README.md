@@ -24,3 +24,5 @@ This project explores the prediction of customer churn using various machine lea
 
 ### Objective:
 The goal of this project is to create an efficient model that can predict whether a customer will churn, helping business implement proactive strategies to retain customers.
+
+Explore the repository for the code, visualizations, and insights from the analysis.
